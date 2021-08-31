@@ -1,0 +1,26 @@
+[2021-06-28 10:18:25.951] [renderer4] [error] [remote-connection] An error occurred in the very first connect attempt, it will be treated as a permanent error! Error:
+[2021-06-28 10:18:25.951] [renderer4] [error] Error: Remote host key has changed, port forwarding is disabled
+    at rr.resolveAuthority (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1866:8049)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async Va._scanAndHandleExtensions (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2944:7220)
+    at async Va._initialize (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2938:115281)
+[2021-06-28 10:18:26.009] [renderer4] [error] Remote host key has changed, port forwarding is disabled: Error: Remote host key has changed, port forwarding is disabled
+    at rr.resolveAuthority (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1866:8049)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async Va._scanAndHandleExtensions (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2944:7220)
+    at async Va._initialize (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2938:115281)
+[2021-06-28 10:18:27.388] [renderer4] [error] Remote host key has changed, port forwarding is disabled: Error: Remote host key has changed, port forwarding is disabled
+    at rr.resolveAuthority (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1866:8049)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async Va._scanAndHandleExtensions (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2944:7220)
+    at async Va._initialize (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2938:115281)
+[2021-06-28 10:18:29.999] [renderer4] [error] Remote host key has changed, port forwarding is disabled: Error: Remote host key has changed, port forwarding is disabled
+    at rr.resolveAuthority (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1866:8049)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async Va._scanAndHandleExtensions (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2944:7220)
+    at async Va._initialize (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2938:115281)
+[2021-06-28 10:18:31.998] [renderer4] [error] Remote host key has changed, port forwarding is disabled: Error: Remote host key has changed, port forwarding is disabled
+    at rr.resolveAuthority (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1866:8049)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async Va._scanAndHandleExtensions (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2944:7220)
+    at async Va._initialize (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2938:115281)

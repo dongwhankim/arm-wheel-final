@@ -1,0 +1,51 @@
+[17:32:13.724] Log Level: 2
+[17:32:13.725] remote-ssh@0.65.7
+[17:32:13.725] linux x64
+[17:32:13.736] SSH Resolver called for "ssh-remote+7b22686f73744e616d65223a223137322e31362e31392e313038222c2275736572223a227562756e7475227d", attempt 1
+[17:32:13.736] "remote.SSH.useLocalServer": true
+[17:32:13.737] "remote.SSH.path": undefined
+[17:32:13.737] "remote.SSH.configFile": undefined
+[17:32:13.737] "remote.SSH.useFlock": true
+[17:32:13.737] "remote.SSH.lockfilesInTmp": false
+[17:32:13.737] "remote.SSH.localServerDownload": auto
+[17:32:13.737] "remote.SSH.remoteServerListenOnSocket": false
+[17:32:13.737] "remote.SSH.showLoginTerminal": false
+[17:32:13.737] "remote.SSH.defaultExtensions": []
+[17:32:13.737] "remote.SSH.loglevel": 2
+[17:32:13.738] SSH Resolver called for host: ubuntu@172.16.19.108
+[17:32:13.738] Setting up SSH remote "172.16.19.108"
+[17:32:13.740] Acquiring local install lock: /tmp/vscode-remote-ssh-ubuntu@172.16.19.108-install.lock
+[17:32:13.743] Looking for existing server data file at /home/kist/catkin_ws/src/robot_test/~/.vscode-root/User/globalStorage/ms-vscode-remote.remote-ssh/vscode-ssh-host-ubuntu@172.16.19.108-507ce72a4466fbb27b715c3722558bb15afa9f48-0.65.7/data.json
+[17:32:13.743] Using commit id "507ce72a4466fbb27b715c3722558bb15afa9f48" and quality "stable" for server
+[17:32:13.745] Install and start server if needed
+[17:32:13.749] PATH: /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/snap/bin
+[17:32:13.749] Checking ssh with "ssh -V"
+[17:32:13.764] > OpenSSH_7.6p1 Ubuntu-4ubuntu0.3, OpenSSL 1.0.2n  7 Dec 2017
+
+[17:32:13.767] askpass server listening on /tmp/vscode-ssh-askpass-83b29dff929c83a5781c8455bbcd8ca0ccdb05d5.sock
+[17:32:13.767] Spawning local server with {"serverId":1,"ipcHandlePath":"/tmp/vscode-ssh-askpass-65ec5813ee48d4fc94a7706215621f391dd4c5d0.sock","sshCommand":"ssh","sshArgs":["-v","-T","-D","44369","-o","ConnectTimeout=15","ubuntu@172.16.19.108"],"dataFilePath":"/home/kist/catkin_ws/src/robot_test/~/.vscode-root/User/globalStorage/ms-vscode-remote.remote-ssh/vscode-ssh-host-ubuntu@172.16.19.108-507ce72a4466fbb27b715c3722558bb15afa9f48-0.65.7/data.json"}
+[17:32:13.767] Local server env: {"DISPLAY":":1","ELECTRON_RUN_AS_NODE":"1","SSH_ASKPASS":"/home/kist/.vscode/extensions/ms-vscode-remote.remote-ssh-0.65.7/out/local-server/askpass.sh","VSCODE_SSH_ASKPASS_NODE":"/usr/share/code/code","VSCODE_SSH_ASKPASS_MAIN":"/home/kist/.vscode/extensions/ms-vscode-remote.remote-ssh-0.65.7/out/askpass-main.js","VSCODE_SSH_ASKPASS_HANDLE":"/tmp/vscode-ssh-askpass-83b29dff929c83a5781c8455bbcd8ca0ccdb05d5.sock"}
+[17:32:13.770] Spawned 12663
+[17:32:13.834] > local-server-1> Spawned ssh, pid=12671
+[17:32:13.835] stderr> OpenSSH_7.6p1 Ubuntu-4ubuntu0.3, OpenSSL 1.0.2n  7 Dec 2017
+[17:32:14.225] stderr> debug1: Server host key: ecdsa-sha2-nistp256 SHA256:4UY4Ovqi4XV0KlUrvKvXbUhIGgq4Vusa7VWKNad4ZWI
+[17:32:14.346] Got askpass request: {"request":"ubuntu@172.16.19.108's password:"}
+[17:32:14.347] Showing password prompt
+[17:32:14.347] Listening for interwindow password on /tmp/vscode-ssh-askpass-0d867f384acaacd9bb83cb6f2b99f1284d42f820.sock
+[17:32:14.347] Writing password prompt to globalState
+[17:32:18.226] Got password response
+[17:32:18.226] Interactor gave response: *****
+[17:32:18.228] Cleaning up other-window auth server
+[17:32:19.937] stderr> Permission denied, please try again.
+[17:32:20.030] Got askpass request: {"request":"ubuntu@172.16.19.108's password:"}
+[17:32:20.030] Showing password prompt
+[17:32:20.030] Listening for interwindow password on /tmp/vscode-ssh-askpass-0ee71ae1a235b44743ac0945665f1f5f1d0a3134.sock
+[17:32:20.030] Writing password prompt to globalState
+[17:32:25.289] Got password response
+[17:32:25.290] Interactor gave response: ******
+[17:32:25.290] Cleaning up other-window auth server
+[17:32:27.524] stderr> Permission denied, please try again.
+[17:32:27.620] Got askpass request: {"request":"ubuntu@172.16.19.108's password:"}
+[17:32:27.620] Showing password prompt
+[17:32:27.621] Listening for interwindow password on /tmp/vscode-ssh-askpass-0302c0f3c94bd0923d5b34d4f68b95edc6aac8a1.sock
+[17:32:27.621] Writing password prompt to globalState

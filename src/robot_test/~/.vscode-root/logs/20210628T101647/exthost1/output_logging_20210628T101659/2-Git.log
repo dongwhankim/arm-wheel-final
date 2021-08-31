@@ -1,0 +1,21 @@
+Looking for git in: git
+Using git 2.17.1 from git
+Opening repository for path='/home/kist/license' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: (현재 폴더 또는 상위 폴더 중 일부가) 깃 저장소가 아닙니다: .git\n"
+}
+Opening repository for path='/home/kist/license/license.json' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/kist/license' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: (현재 폴더 또는 상위 폴더 중 일부가) 깃 저장소가 아닙니다: .git\n"
+}
+Opening repository for path='/home/kist/license' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: (현재 폴더 또는 상위 폴더 중 일부가) 깃 저장소가 아닙니다: .git\n"
+}

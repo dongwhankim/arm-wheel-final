@@ -1,0 +1,95 @@
+[2021-06-28 10:19:01.079] [exthost] [info] extension host started
+[2021-06-28 10:19:01.086] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-ssh {"startup":false,"extensionId":{"value":"ms-vscode-remote.remote-ssh","_lower":"ms-vscode-remote.remote-ssh"},"activationEvent":"onResolveRemoteAuthority:ssh-remote"}
+[2021-06-28 10:19:01.087] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/kist/.vscode/extensions/ms-vscode-remote.remote-ssh-0.65.7/out/extension
+[2021-06-28 10:19:01.969] [exthost] [info] eager extensions activated
+[2021-06-28 10:19:01.978] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2021-06-28 10:19:01.978] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-06-28 10:19:02.120] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2021-06-28 10:19:02.120] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/github-authentication/dist/extension.js
+[2021-06-28 10:21:43.997] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-06-28 10:21:44.780] [exthost] [info] extension host started
+[2021-06-28 10:21:44.792] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-ssh {"startup":false,"extensionId":{"value":"ms-vscode-remote.remote-ssh","_lower":"ms-vscode-remote.remote-ssh"},"activationEvent":"onResolveRemoteAuthority:ssh-remote"}
+[2021-06-28 10:21:44.792] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/kist/.vscode/extensions/ms-vscode-remote.remote-ssh-0.65.7/out/extension
+[2021-06-28 10:21:44.999] [exthost] [info] exiting with code 0
+[2021-06-28 10:22:02.154] [exthost] [info] eager extensions activated
+[2021-06-28 10:22:02.157] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2021-06-28 10:22:02.157] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-06-28 10:22:04.744] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2021-06-28 10:22:04.744] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/github-authentication/dist/extension.js
+[2021-06-28 10:22:12.951] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-06-28 10:22:13.747] [exthost] [info] extension host started
+[2021-06-28 10:22:13.756] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-ssh {"startup":false,"extensionId":{"value":"ms-vscode-remote.remote-ssh","_lower":"ms-vscode-remote.remote-ssh"},"activationEvent":"onResolveRemoteAuthority:ssh-remote"}
+[2021-06-28 10:22:13.756] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/kist/.vscode/extensions/ms-vscode-remote.remote-ssh-0.65.7/out/extension
+[2021-06-28 10:22:13.953] [exthost] [info] exiting with code 0
+[2021-06-28 10:22:15.874] [exthost] [info] eager extensions activated
+[2021-06-28 10:22:15.882] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2021-06-28 10:22:15.882] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-06-28 10:22:17.492] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2021-06-28 10:22:17.492] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/github-authentication/dist/extension.js
+[2021-06-28 10:23:00.932] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-06-28 10:23:01.722] [exthost] [info] extension host started
+[2021-06-28 10:23:01.731] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-ssh {"startup":false,"extensionId":{"value":"ms-vscode-remote.remote-ssh","_lower":"ms-vscode-remote.remote-ssh"},"activationEvent":"onResolveRemoteAuthority:ssh-remote"}
+[2021-06-28 10:23:01.731] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/kist/.vscode/extensions/ms-vscode-remote.remote-ssh-0.65.7/out/extension
+[2021-06-28 10:23:01.936] [exthost] [info] exiting with code 0
+[2021-06-28 10:23:04.269] [exthost] [info] eager extensions activated
+[2021-06-28 10:23:04.289] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2021-06-28 10:23:04.289] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-06-28 10:23:05.315] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2021-06-28 10:23:05.315] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/github-authentication/dist/extension.js
+[2021-06-28 10:23:58.432] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-06-28 10:23:59.182] [exthost] [info] extension host started
+[2021-06-28 10:23:59.190] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-ssh {"startup":false,"extensionId":{"value":"ms-vscode-remote.remote-ssh","_lower":"ms-vscode-remote.remote-ssh"},"activationEvent":"onResolveRemoteAuthority:ssh-remote"}
+[2021-06-28 10:23:59.190] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/kist/.vscode/extensions/ms-vscode-remote.remote-ssh-0.65.7/out/extension
+[2021-06-28 10:23:59.434] [exthost] [info] exiting with code 0
+[2021-06-28 10:24:01.700] [exthost] [info] eager extensions activated
+[2021-06-28 10:24:01.707] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2021-06-28 10:24:01.707] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-06-28 10:24:02.922] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2021-06-28 10:24:02.922] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/github-authentication/dist/extension.js
+[2021-06-28 13:57:59.809] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-06-28 13:58:00.578] [exthost] [info] extension host started
+[2021-06-28 13:58:00.587] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-ssh {"startup":false,"extensionId":{"value":"ms-vscode-remote.remote-ssh","_lower":"ms-vscode-remote.remote-ssh"},"activationEvent":"onResolveRemoteAuthority:ssh-remote"}
+[2021-06-28 13:58:00.587] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/kist/.vscode/extensions/ms-vscode-remote.remote-ssh-0.65.7/out/extension
+[2021-06-28 13:58:00.813] [exthost] [info] exiting with code 0
+[2021-06-28 13:58:00.882] [exthost] [info] eager extensions activated
+[2021-06-28 13:58:00.902] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2021-06-28 13:58:00.902] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-06-28 13:58:01.117] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2021-06-28 13:58:01.117] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/github-authentication/dist/extension.js
+[2021-06-28 13:58:33.275] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-06-28 13:58:34.072] [exthost] [info] extension host started
+[2021-06-28 13:58:34.087] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-ssh {"startup":false,"extensionId":{"value":"ms-vscode-remote.remote-ssh","_lower":"ms-vscode-remote.remote-ssh"},"activationEvent":"onResolveRemoteAuthority:ssh-remote"}
+[2021-06-28 13:58:34.087] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/kist/.vscode/extensions/ms-vscode-remote.remote-ssh-0.65.7/out/extension
+[2021-06-28 13:58:34.277] [exthost] [info] exiting with code 0
+[2021-06-28 13:58:34.334] [exthost] [info] eager extensions activated
+[2021-06-28 13:58:34.345] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2021-06-28 13:58:34.345] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-06-28 13:58:34.434] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2021-06-28 13:58:34.434] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/github-authentication/dist/extension.js
+[2021-06-28 13:58:36.959] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-06-28 13:58:36.968] [exthost] [error] ProxyResolver#resolveProxy Canceled: Canceled
+	at Object.s [as canceled] (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:5:1157)
+	at d._remoteCall (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:88:12889)
+	at Proxy.b.<computed>.y.charCodeAt.b.<computed> (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:88:9409)
+	at y.resolveProxy (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:88:36301)
+	at Object.resolveProxy (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:93:57260)
+	at useProxySettings (/usr/share/code/resources/app/node_modules.asar/vscode-proxy-agent/out/index.js:159:16)
+	at /usr/share/code/resources/app/node_modules.asar/vscode-proxy-agent/out/index.js:107:13
+	at /usr/share/code/resources/app/node_modules.asar/vscode-proxy-agent/out/index.js:335:13
+	at processTicksAndRejections (internal/process/task_queues.js:93:5) 
+[2021-06-28 13:58:37.766] [exthost] [info] extension host started
+[2021-06-28 13:58:37.778] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-ssh {"startup":false,"extensionId":{"value":"ms-vscode-remote.remote-ssh","_lower":"ms-vscode-remote.remote-ssh"},"activationEvent":"onResolveRemoteAuthority:ssh-remote"}
+[2021-06-28 13:58:37.778] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/kist/.vscode/extensions/ms-vscode-remote.remote-ssh-0.65.7/out/extension
+[2021-06-28 13:58:37.963] [exthost] [info] exiting with code 0
+[2021-06-28 13:58:50.860] [exthost] [info] eager extensions activated
+[2021-06-28 13:58:50.903] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2021-06-28 13:58:50.903] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-06-28 13:58:54.137] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2021-06-28 13:58:54.138] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/github-authentication/dist/extension.js
+[2021-06-28 17:32:12.885] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-06-28 17:32:13.665] [exthost] [info] extension host started
+[2021-06-28 17:32:13.677] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-ssh {"startup":false,"extensionId":{"value":"ms-vscode-remote.remote-ssh","_lower":"ms-vscode-remote.remote-ssh"},"activationEvent":"onResolveRemoteAuthority:ssh-remote"}
+[2021-06-28 17:32:13.677] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/kist/.vscode/extensions/ms-vscode-remote.remote-ssh-0.65.7/out/extension
+[2021-06-28 17:32:13.888] [exthost] [info] exiting with code 0
+[2021-06-28 17:32:37.617] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-06-28 17:32:38.619] [exthost] [info] exiting with code 0

@@ -1,0 +1,34 @@
+[10:23:01.779] Log Level: 2
+[10:23:01.780] remote-ssh@0.65.7
+[10:23:01.780] linux x64
+[10:23:01.792] SSH Resolver called for "ssh-remote+7b22686f73744e616d65223a223137322e31362e31392e313038222c2275736572223a227562756e7475227d", attempt 1
+[10:23:01.792] "remote.SSH.useLocalServer": true
+[10:23:01.792] "remote.SSH.path": undefined
+[10:23:01.792] "remote.SSH.configFile": undefined
+[10:23:01.792] "remote.SSH.useFlock": true
+[10:23:01.792] "remote.SSH.lockfilesInTmp": false
+[10:23:01.792] "remote.SSH.localServerDownload": auto
+[10:23:01.792] "remote.SSH.remoteServerListenOnSocket": false
+[10:23:01.793] "remote.SSH.showLoginTerminal": false
+[10:23:01.793] "remote.SSH.defaultExtensions": []
+[10:23:01.793] "remote.SSH.loglevel": 2
+[10:23:01.793] SSH Resolver called for host: ubuntu@172.16.19.108
+[10:23:01.793] Setting up SSH remote "172.16.19.108"
+[10:23:01.795] Acquiring local install lock: /tmp/vscode-remote-ssh-ubuntu@172.16.19.108-install.lock
+[10:23:01.799] Looking for existing server data file at /home/kist/catkin_ws/src/robot_test/~/.vscode-root/User/globalStorage/ms-vscode-remote.remote-ssh/vscode-ssh-host-ubuntu@172.16.19.108-507ce72a4466fbb27b715c3722558bb15afa9f48-0.65.7/data.json
+[10:23:01.799] Found local server running: {"remoteListeningOn":{"port":33783},"osReleaseId":"ubuntu","arch":"aarch64","webUiAccessToken":"","sshAuthSock":"","display":"","tmpDir":"/run/user/1000","platform":"linux","connectionToken":"1a11a1aa-a111-1a11-111a-11aa11111aaa","pid":5979,"ipcHandlePath":"/tmp/vscode-ssh-askpass-5fd6a81cc3a734429996ce1f113d0d503321352a.sock","socksPort":45823,"startupTime":1624843304878}
+[10:23:01.812] Found running server - short-circuiting install
+[10:23:01.813] Starting forwarding server. localPort 41909 -> socksPort 45823 -> remotePort 33783
+[10:23:01.813] Forwarding server listening on 41909
+[10:23:01.813] Waiting for ssh tunnel to be ready
+[10:23:01.814] [Forwarding server 41909] Got connection 0
+[10:23:01.814] Tunneled 33783 to local port 41909
+[10:23:01.815] Resolved "ssh-remote+7b22686f73744e616d65223a223137322e31362e31392e313038222c2275736572223a227562756e7475227d" to "127.0.0.1:41909"
+[10:23:01.820] ------
+
+
+
+
+[10:23:01.854] [Forwarding server 41909] Got connection 1
+[10:23:01.905] [Forwarding server 41909] Got connection 2
+[10:23:27.014] [Forwarding server 41909] Got connection 3

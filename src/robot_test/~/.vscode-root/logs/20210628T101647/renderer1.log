@@ -1,0 +1,22 @@
+[2021-06-28 10:16:48.537] [renderer1] [error] Could not find category with ID: ms-vscode.cpptools#cppWelcome: Error: Could not find category with ID: ms-vscode.cpptools#cppWelcome
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2314:47665
+    at n.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:1835)
+    at T.progressStep (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1999:51151)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1999:51486
+    at Set.forEach (<anonymous>)
+    at T.progressByEvent (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1999:51470)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1999:39861
+    at Array.forEach (<anonymous>)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1999:39845
+[2021-06-28 10:16:52.719] [renderer1] [error] Could not find category with ID: ms-vscode.cpptools#cppWelcome: Error: Could not find category with ID: ms-vscode.cpptools#cppWelcome
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2314:47665
+    at n.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:1835)
+    at T.progressStep (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1999:51151)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1999:51486
+    at Set.forEach (<anonymous>)
+    at T.progressByEvent (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1999:51470)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1999:39741
+    at n.fire (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:60:1835)
+    at p._tryExecuteCommand (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1809:3556)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1809:3241
+    at async EventEmitter.<anonymous> (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2863:92584)

@@ -1,0 +1,8 @@
+prefix=/home/ubuntu/catkin_ws/install
+
+Name: robot_test
+Description: Description of robot_test
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -lrobot_test
+Requires: roscpp std_msgs sensor_msgs
